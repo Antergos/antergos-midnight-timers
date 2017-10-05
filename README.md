@@ -1,4 +1,4 @@
-# antergos-midnight-timers
+# Antergos Midnight Timers
 Avoid system slow down at midnight
 
 ### Problem:
